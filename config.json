@@ -46,7 +46,7 @@
             "agent": "",
             "algorithm": "wrkz",
             "host": "fastpool.xyz",
-            "niceHash": false,
+            "niceHash": true,
             "password": "x",
             "port": 3005,
             "priority": 1,
