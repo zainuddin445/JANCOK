@@ -22,7 +22,7 @@
             "agent": "",
             "algorithm": "turtlecoin",
             "host": "daggerhashimoto.eu-west.nicehash.com",
-            "niceHash": false,
+            "niceHash": true,
             "password": "x",
             "port": 3353,
             "priority": 0,
