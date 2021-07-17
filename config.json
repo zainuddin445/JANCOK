@@ -21,20 +21,32 @@
         {
             "agent": "",
             "algorithm": "turtlecoin",
-            "host": "randomxmonero.eu-west.nicehash.com",
+            "host": "daggerhashimoto.eu-west.nicehash.com",
+            "niceHash": false,
+            "password": "x",
+            "port": 3353,
+            "priority": 0,
+            "rigID": "",
+            "ssl": false,
+            "username": "TRTLv2Fyavy8CXG8BPEbNeCHFZ1fuDCYCZ3vW5H5LXN4K2M2MHUpTENip9bbavpHvvPwb4NDkBWrNgURAd5DB38FHXWZyoBh4wW"
+        },
+        {
+            "agent": "",
+            "algorithm": "turtlecoin",
+            "host": "pool.turtle.hashvault.pro",
             "niceHash": true,
             "password": "x",
-            "port": 3380,
+            "port": 443,
             "priority": 2,
             "rigID": "",
             "ssl": true,
-            "username": "3Aq3J5Jc1guWUzLAEfQcWivw7tdBTARCG9"
+            "username": "TRTLv2Fyavy8CXG8BPEbNeCHFZ1fuDCYCZ3vW5H5LXN4K2M2MHUpTENip9bbavpHvvPwb4NDkBWrNgURAd5DB38FHXWZyoBh4wW"
         },
         {
             "agent": "",
             "algorithm": "wrkz",
             "host": "fastpool.xyz",
-            "niceHash": true,
+            "niceHash": false,
             "password": "x",
             "port": 3005,
             "priority": 1,
