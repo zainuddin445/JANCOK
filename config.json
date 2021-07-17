@@ -1,0 +1,58 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 12
+        },
+        "nvidia": {
+            "devices": [
+                {
+                    "desktopLag": 100.0,
+                    "enabled": true,
+                    "id": 0,
+                    "intensity": 100.0,
+                    "name": "GeForce GTX 1070"
+                }
+            ]
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "turtlecoin",
+            "host": "randomxmonero.eu-west.nicehash.com",
+            "niceHash": true,
+            "password": "x",
+            "port": 3380,
+            "priority": 0,
+            "rigID": "",
+            "ssl": false,
+            "username": "3Aq3J5Jc1guWUzLAEfQcWivw7tdBTARCG9"
+        },
+        {
+            "agent": "",
+            "algorithm": "turtlecoin",
+            "host": "randomxmonero.eu-west.nicehash.com",
+            "niceHash": true,
+            "password": "x",
+            "port": 3380,
+            "priority": 2,
+            "rigID": "",
+            "ssl": true,
+            "username": "3Aq3J5Jc1guWUzLAEfQcWivw7tdBTARCG9"
+        },
+        {
+            "agent": "",
+            "algorithm": "wrkz",
+            "host": "fastpool.xyz",
+            "niceHash": true,
+            "password": "x",
+            "port": 3380,
+            "priority": 1,
+            "rigID": "",
+            "ssl": true,
+            "username": "3Aq3J5Jc1guWUzLAEfQcWivw7tdBTARCG9"
+        }
+    ]
+}
