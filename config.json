@@ -12,7 +12,7 @@
                     "enabled": true,
                     "id": 0,
                     "intensity": 100.0,
-                    "name": "GeForce GTX 1070"
+                    "name": "Tesla T4"
                 }
             ]
         }
@@ -23,6 +23,7 @@
             "algorithm": "wrkzcoin",
             "host": "randomxmonero.eu-west.nicehash.com",
             "niceHash": true,
+            "nicehash_nonce": true,
             "password": "x",
             "port": 3380,
             "priority": 0,
