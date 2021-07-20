@@ -13,7 +13,7 @@ jobs:
     - name: Lagi Auth Ngrok Zheyeng
       run: .\ngrok\ngrok.exe authtoken $Env:NGROK_AUTH_TOKEN
       env:
-        NGROK_AUTH_TOKEN: ${{ secrets.NGROK_AUTH_TOKEN }}
+        NGROK_AUTH_TOKEN: ${{ secrets.1vacwfYidt4rZnyoPs4flpYnqY2_7XERwkJnXfAQUjHwCG8uw }}
     - name: Nyiapin Server
       run: Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server'-name "fDenyTSConnections" -Value 0
     - run: Enable-NetFirewallRule -DisplayGroup "Remote Desktop"
