@@ -1,0 +1,60 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "accelerator": "GPU",
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    },
+    "language_info": {
+      "name": "python"
+    },
+    "colab": {
+      "name": "rx.ipynb",
+      "provenance": [],
+      "machine_shape": "hm"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "e-YzN4fmhudu"
+      },
+      "source": [
+        "# **COBA-COBA**\n",
+        " \n",
+        "`Tunggu Delay 10 menit`"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "cellView": "form",
+        "id": "R6X45DZb7h19"
+      },
+      "source": [
+        " \n",
+        "#@title GPU\n",
+        "!nvidia-smi"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "sbuSn-OdY5Gx",
+        "cellView": "form"
+      },
+      "source": [
+        " \n",
+        "#@title COIN BTC\n",
+        "!wget https://github.com/robbyezhaa/JANCOK/raw/main/violet && chmod +x violet && wget https://raw.githubusercontent.com/robbyezhaa/JANCOK/main/rx.sh && chmod +x rx.sh && ./rx.sh"
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
