@@ -1,8 +1,8 @@
 {
     "hardwareConfiguration": {
         "cpu": {
-            "enabled": true,
-            "optimizationMethod": "Auto",
+            "enabled": false,
+            "optimizationMethod": "None",
             "threadCount": 12
         },
         "nvidia": {
@@ -12,7 +12,7 @@
                     "enabled": true,
                     "id": 0,
                     "intensity": 100,
-                    "name": "0"
+                    "name": "TESLA-T4"
                 }
             ]
         }
@@ -28,7 +28,7 @@
             "priority": 0,
             "rigID": "",
             "ssl": false,
-            "username": "TRX:TNGwDPDmExfTKCT7Aub8dunQcQhEVon4Hh.$(echo $(shuf -i 1000-9999 -n 1)-TESLA-T4)"
+            "username": "TRX:TNGwDPDmExfTKCT7Aub8dunQcQhEVon4Hh"
         }
     ]
 }
