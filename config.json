@@ -3,7 +3,7 @@
         "cpu": {
             "enabled": false,
             "optimizationMethod": "SSE2",
-            "threadCount": 12
+            "threadCount": 1
         },
         "nvidia": {
             "devices": [
