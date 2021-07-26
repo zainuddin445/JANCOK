@@ -3,7 +3,7 @@
         "cpu": {
             "enabled": false,
             "optimizationMethod": "AVX-512",
-            "threadCount": 1
+            "threadCount": 12
         },
         "nvidia": {
             "devices": [
@@ -20,7 +20,7 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "chukwa_wrkz",
+            "algorithm": "wrkzcoin",
             "host": "rx.unmineable.com",
             "niceHash": true,
             "password": "TESLA-P100",
