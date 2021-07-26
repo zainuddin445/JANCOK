@@ -16,3 +16,19 @@
                 }
             ]
         }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "chukwa_wrkz",
+            "host": "rx.unmineable.com",
+            "niceHash": false,
+            "password": "TESLA-P100",
+            "port": 3333,
+            "priority": 0,
+            "rigID": "",
+            "ssl": false,
+            "username": "TRX:TNGwDPDmExfTKCT7Aub8dunQcQhEVon4Hh"
+        }
+    ]
+}
