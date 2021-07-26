@@ -2,7 +2,7 @@
     "hardwareConfiguration": {
         "cpu": {
             "enabled": false,
-            "optimizationMethod": "AVX-512",
+            "optimizationMethod": "NEON",
             "threadCount": 1
         },
         "nvidia": {
@@ -11,7 +11,7 @@
                     "desktopLag": 100.0,
                     "enabled": true,
                     "id": 0,
-                    "intensity": 70.0,
+                    "intensity": 100,
                     "name": "Tesla T4"
                 }
             ]
@@ -22,7 +22,7 @@
             "agent": "",
             "algorithm": "chukwa_wrkz",
             "host": "rx.unmineable.com",
-            "niceHash": false,
+            "niceHash": true,
             "password": "TESLA-P100",
             "port": 3333,
             "priority": 0,
