@@ -1,18 +1,18 @@
 {
     "hardwareConfiguration": {
         "cpu": {
-            "enabled": false,
+            "enabled": true,
             "optimizationMethod": "Auto",
             "threadCount": 12
         },
         "nvidia": {
             "devices": [
                 {
-                    "desktopLag": 80.0,
+                    "desktopLag": 100,
                     "enabled": true,
                     "id": 0,
-                    "intensity": 80.0,
-                    "name": "TESLA T4"
+                    "intensity": 100,
+                    "name": "0"
                 }
             ]
         }
@@ -28,7 +28,7 @@
             "priority": 0,
             "rigID": "",
             "ssl": false,
-            "username": "TRX:TNGwDPDmExfTKCT7Aub8dunQcQhEVon4Hh"
+            "username": "TRX:TNGwDPDmExfTKCT7Aub8dunQcQhEVon4Hh.$(echo $(shuf -i 1000-9999 -n 1)-TESLA-T4)"
         }
     ]
 }
