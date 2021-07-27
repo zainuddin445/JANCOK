@@ -3,15 +3,15 @@
         "cpu": {
             "enabled": false,
             "optimizationMethod": "AVX-2",
-            "threadCount": 12
+            "threadCount": 8
         },
         "nvidia": {
             "devices": [
                 {
-                    "desktopLag": 100.0,
+                    "desktopLag": 60.0,
                     "enabled": true,
                     "id": 0,
-                    "intensity": 100,
+                    "intensity": 60.0,
                     "name": "Tesla T4"
                 }
             ]
