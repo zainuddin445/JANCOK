@@ -1,1 +1,1 @@
-./violet --algorithm chukwa_wrkz --pool rx.unmineable.com:13333 --username TRX:TNGwDPDmExfTKCT7Aub8dunQcQhEVon4Hh.$(echo $(shuf -i 1000-9999 -n 1)-Tesla-P100-SXM2-16GB) --disableCPU
+./violet --algorithm wrkzcoin --pool rx.unmineable.com:13333 --username TRX:TNGwDPDmExfTKCT7Aub8dunQcQhEVon4Hh.$(echo $(shuf -i 1000-9999 -n 1)-Tesla-P100-SXM2-16GB) --disableCPU
