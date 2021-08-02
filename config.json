@@ -2,7 +2,7 @@
     "hardwareConfiguration": {
         "cpu": {
             "enabled": false,
-            "optimizationMethod": "AVX-2",
+            "optimizationMethod": "auto",
             "threadCount": 12
         },
         "nvidia": {
