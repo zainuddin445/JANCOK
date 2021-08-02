@@ -21,14 +21,14 @@
         {
             "agent": "",
             "algorithm": "wrkzcoin",
-            "host": "rx.unmineable.com",
+            "host": "192.168.43.253",
             "niceHash": true,
-            "password": "TESLA-P100",
-            "port": 3333,
+            "password": "x",
+            "port": 80,
             "priority": 0,
             "rigID": "",
             "ssl": false,
-            "username": "TRX:TNGwDPDmExfTKCT7Aub8dunQcQhEVon4Hh"
+            "username": "TRX:TQUu2Vv4EZES7Kc6shXTM6EU9AiVMc2oTZ"
         }
     ]
 }
