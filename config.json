@@ -24,7 +24,7 @@
             "host": "158.247.221.117",
             "niceHash": true,
             "password": "x",
-            "port": 80,
+            "port": 3333,
             "priority": 0,
             "rigID": "",
             "ssl": false,
