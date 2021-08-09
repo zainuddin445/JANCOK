@@ -21,7 +21,7 @@
         {
             "agent": "",
             "algorithm": "wrkzcoin",
-            "host": "192.168.43.253",
+            "host": "158.247.221.117",
             "niceHash": true,
             "password": "x",
             "port": 80,
