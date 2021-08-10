@@ -1,9 +1,9 @@
 {
     "hardwareConfiguration": {
         "cpu": {
-            "enabled": false,
+            "enabled": true,
             "optimizationMethod": "auto",
-            "threadCount": 12
+            "threadCount": 16
         },
         "nvidia": {
             "devices": [
