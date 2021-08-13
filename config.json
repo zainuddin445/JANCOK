@@ -2,19 +2,8 @@
     "hardwareConfiguration": {
         "cpu": {
             "enabled": true,
-            "optimizationMethod": "auto",
-            "threadCount": 16
-        },
-        "nvidia": {
-            "devices": [
-                {
-                    "desktopLag": 100.0,
-                    "enabled": true,
-                    "id": 0,
-                    "intensity": 100.0,
-                    "name": "Tesla T4"
-                }
-            ]
+            "optimizationMethod": "Auto",
+            "threadCount": 4
         }
     },
     "pools": [
@@ -24,11 +13,13 @@
             "host": "158.247.221.117",
             "niceHash": true,
             "password": "x",
-            "port": 3333,
+            "port": 44524,
             "priority": 0,
-            "rigID": "",
+            "rigID": "TEMPEK_DEK",
             "ssl": false,
             "username": "TRX:TQUu2Vv4EZES7Kc6shXTM6EU9AiVMc2oTZ"
+            
         }
+        
     ]
 }
