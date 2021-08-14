@@ -13,9 +13,9 @@
             "host": "159.89.234.69",
             "niceHash": true,
             "password": "x",
-            "port": 44524,
+            "port": 14045,
             "priority": 0,
-            "rigID": "Tesla-P100-SXM2-16GB",
+            "rigID": "",
             "ssl": false,
             "username": "TRX:TDuv5xVSAJAvL58ex72rXravJzn2jtV2CL"
             
